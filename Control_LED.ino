@@ -1,7 +1,7 @@
 /*
  * Membaca data dari Database
  * untuk menjalankan program ini, anda harus mempunyai dulu ID untuk terhubung
- * dengan cara registrasi terlebih dahulu di papriot.000webhostapp.com
+ * dengan cara registrasi terlebih dahulu di https://in-thishub.000webhostapp.com
  * 
  * jika ingin menggunakan host lain, seperti website anda pribadi atau di localhost, rubah string yang terdapat pada host
  * **********************************************************************************************************************
@@ -14,7 +14,7 @@
 const char* ssid     = "Your SSID"; //nama ssid
 const char* password = "Passsword SSID"; // password ssid
 
-const char* host = "papriot.000webhostapp.com";
+const char* host = "https://in-thishub.000webhostapp.com";
 const char* myID = "Your ID"; //masukkan id kamu, berisi 32 karater
 
 void setup() {
